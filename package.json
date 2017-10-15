@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "synx-one-dark-syntax",
   "theme": "syntax",
   "version": "1.8.0",
-  "description": "A dark syntax theme",
+  "description": "Improved highlight dark syntax theme",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/carlosrivera/synx-one-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
